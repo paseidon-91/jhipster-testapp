@@ -1,0 +1,10 @@
+{
+  "testappApp": {
+    "ItemType": {
+      "null": "",
+      "LINK": "LINK",
+      "FILE": "FILE",
+      "LONG_TEXT": "LONG_TEXT"
+    }
+  }
+}
